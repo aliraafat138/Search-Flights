@@ -41,4 +41,3 @@ The agent can:
 
 ---
 
-## 📂 Project Structure
